@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my website!"
 date:   2025-04-13 21:32:28 +0800
-categories: nathan update
+categories: Updates
 ---
 Hi, I am Nathan and this is my website!
 

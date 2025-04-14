@@ -31,6 +31,18 @@ github_username:  ntyx
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
+
+#Archives
+jekyll-archives:
+  enabled: categories
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
